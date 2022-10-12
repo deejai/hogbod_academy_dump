@@ -1,0 +1,49 @@
+{
+    "movies": [
+        {
+            "description": "In a world in which Great Britain has become a fascist state, a masked vigilante known only as \u201cV\u201d conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret police, he finds in her an ally with whom he can continue his fight to free the people of Britain.",
+            "id": 7,
+            "poster_src": "/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg",
+            "rating": "5",
+            "title": "V for Vendetta",
+            "user_rating": 7.9,
+            "year": "2006"
+        },
+        {
+            "description": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+            "id": 8,
+            "poster_src": "/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+            "rating": "5",
+            "title": "Fight Club",
+            "user_rating": 8.4,
+            "year": "1999"
+        },
+        {
+            "description": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+            "id": 9,
+            "poster_src": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+            "rating": "5",
+            "title": "A Clockwork Orange",
+            "user_rating": 8.2,
+            "year": "1971"
+        },
+        {
+            "description": "A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days. But when his past comes to haunt him, the young prince must decide his fate: Will he remain an outcast or face his demons and become what he needs to be?",
+            "id": 10,
+            "poster_src": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+            "rating": "1",
+            "title": "The Lion King",
+            "user_rating": 8.3,
+            "year": "1994"
+        },
+        {
+            "description": "Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.",
+            "id": 11,
+            "poster_src": "/HzrPn1gEHWixfMOvOehOTlHROo.jpg",
+            "rating": "3",
+            "title": "Friday the 13th",
+            "user_rating": 6.4,
+            "year": "1980"
+        }
+    ]
+}
